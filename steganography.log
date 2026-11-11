@@ -1,0 +1,45 @@
+2026-10-01 22:08:18,535  INFO      __main__  —  === Secure Image Steganography starting ===
+2026-10-01 22:08:18,536  INFO      __main__  —  Log file: C:\Users\ganes\Desktop\CRYPTO\secure-steganography\steganography.log
+2026-10-01 22:08:23,026  INFO      matplotlib.font_manager  —  generated new fontManager
+2026-10-01 22:08:25,480  INFO      gui.main_window  —  Switched to view: home
+2026-10-01 22:08:47,847  INFO      gui.main_window  —  Switched to view: hide
+2026-10-01 22:19:42,021  INFO      gui.main_window  —  Switched to view: extract
+2026-10-01 22:19:43,449  INFO      gui.main_window  —  Switched to view: analysis
+2026-10-01 22:21:41,507  INFO      __main__  —  === Secure Image Steganography starting ===
+2026-10-01 22:21:41,507  INFO      __main__  —  Log file: C:\Users\ganes\Desktop\CRYPTO\secure-steganography\steganography.log
+2026-10-01 22:21:42,786  INFO      gui.main_window  —  Switched to view: home
+2026-10-01 22:21:45,446  INFO      gui.main_window  —  Switched to view: hide
+2026-10-01 22:33:49,550  INFO      crypto.encryption  —  Key derived via PBKDF2-HMAC-SHA256 (390000 iterations).
+2026-10-01 22:33:49,552  INFO      crypto.encryption  —  Message encrypted successfully (token length=100 bytes).
+2026-10-01 22:33:49,564  INFO      steganography.lsb  —  Payload embedded: 1000 bits into 914112 available bits (0.11% used).
+2026-10-01 22:34:10,217  INFO      gui.main_window  —  Switched to view: extract
+2026-10-01 22:34:23,142  INFO      steganography.lsb  —  Payload extracted: 125 bytes (25 header + 100 token).
+2026-10-01 22:34:23,216  INFO      crypto.encryption  —  Key derived via PBKDF2-HMAC-SHA256 (390000 iterations).
+2026-10-01 22:34:23,217  INFO      crypto.encryption  —  Message decrypted successfully.
+2026-10-01 22:34:36,340  INFO      __main__  —  === Secure Image Steganography starting ===
+2026-10-01 22:34:36,340  INFO      __main__  —  Log file: C:\Users\ganes\Desktop\CRYPTO\secure-steganography\steganography.log
+2026-10-01 22:34:37,514  INFO      gui.main_window  —  Switched to view: home
+2026-10-01 22:34:45,476  INFO      gui.main_window  —  Switched to view: hide
+2026-10-01 22:35:24,492  INFO      crypto.encryption  —  Key derived via PBKDF2-HMAC-SHA256 (390000 iterations).
+2026-10-01 22:35:24,494  INFO      crypto.encryption  —  Message encrypted successfully (token length=120 bytes).
+2026-10-01 22:35:24,511  INFO      steganography.lsb  —  Payload embedded: 1160 bits into 2881935 available bits (0.04% used).
+2026-10-01 22:35:36,171  INFO      gui.main_window  —  Switched to view: extract
+2026-10-01 22:35:50,248  INFO      steganography.lsb  —  Payload extracted: 145 bytes (25 header + 120 token).
+2026-10-01 22:35:50,313  INFO      crypto.encryption  —  Key derived via PBKDF2-HMAC-SHA256 (390000 iterations).
+2026-10-01 22:35:50,313  INFO      crypto.encryption  —  Message decrypted successfully.
+2026-10-15 13:21:55,617  INFO      __main__  —  === Secure Image Steganography starting ===
+2026-10-15 13:21:55,617  INFO      __main__  —  Log file: C:\Users\ganes\Desktop\CRYPTO\secure-steganography\steganography.log
+2026-10-15 13:22:03,026  INFO      gui.main_window  —  Switched to view: home
+2026-10-15 13:22:10,415  INFO      gui.main_window  —  Switched to view: hide
+2026-10-15 13:22:11,414  INFO      gui.main_window  —  Switched to view: home
+2026-10-15 14:32:40,947  INFO      __main__  —  === Secure Image Steganography starting ===
+2026-10-15 14:32:40,955  INFO      __main__  —  Log file: C:\Users\ganes\Desktop\CRYPTO\secure-steganography\steganography.log
+2026-10-15 14:32:42,270  INFO      gui.main_window  —  Switched to view: home
+2026-10-15 14:32:51,711  INFO      gui.main_window  —  Switched to view: hide
+2026-10-15 14:33:57,903  INFO      crypto.encryption  —  Key derived via PBKDF2-HMAC-SHA256 (390000 iterations).
+2026-10-15 14:33:57,912  INFO      crypto.encryption  —  Message encrypted successfully (token length=100 bytes).
+2026-10-15 14:33:57,934  INFO      steganography.lsb  —  Payload embedded: 1000 bits into 2881935 available bits (0.03% used).
+2026-10-15 14:34:47,308  INFO      gui.main_window  —  Switched to view: extract
+2026-10-15 14:35:05,175  INFO      steganography.lsb  —  Payload extracted: 125 bytes (25 header + 100 token).
+2026-10-15 14:35:05,235  INFO      crypto.encryption  —  Key derived via PBKDF2-HMAC-SHA256 (390000 iterations).
+2026-10-15 14:35:05,235  INFO      crypto.encryption  —  Message decrypted successfully.

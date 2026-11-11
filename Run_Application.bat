@@ -1,0 +1,6 @@
+@echo off
+title Secure Image Steganography
+echo Starting Secure Image Steganography Application...
+echo Please wait...
+python main.py
+pause
